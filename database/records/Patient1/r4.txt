@@ -1,0 +1,13 @@
+title: 
+&patient
+name: 
+&Patient1
+doctor: 
+&Doctor1
+nurse: 
+&Nurse1
+div: 
+&Div1
+content: 
+&[New, content, here!]
+

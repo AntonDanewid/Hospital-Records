@@ -1,0 +1,13 @@
+title: 
+&patient
+name: 
+&Patient1
+doctor: 
+&Doctor1
+nurse: 
+&Doctor1
+div: 
+&Nurse1
+content: 
+&[Div1, "Patient1, is, hurt..."]
+

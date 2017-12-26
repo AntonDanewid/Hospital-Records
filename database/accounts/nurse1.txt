@@ -1,0 +1,8 @@
+title:
+&nurse
+name:
+&nurse1
+records:
+&../../database/records/Patient1/r6.txt
+&../../database/records/Patient1/r4.txt
+&../../database/records/Patient1/r5.txt

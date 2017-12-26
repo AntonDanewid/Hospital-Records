@@ -1,0 +1,9 @@
+title:
+&doctor
+name:
+&Doctor2
+patients:
+&../../database/records/Patient2/
+records:
+div:
+&div1

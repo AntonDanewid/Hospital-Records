@@ -1,0 +1,15 @@
+title:
+&doctor
+name:
+&Doctor1
+patients:
+&../../database/records/Patient1/
+records:
+&../../database/records/Patient1/r1.txt
+&../../database/records/Patient1/r6.txt
+&../../database/records/Patient1/r2.txt
+&../../database/records/Patient1/r0.txt
+&../../database/records/Patient1/r3.txt
+&../../database/records/Patient1/r4.txt
+&../../database/records/Patient1/r5.txt
+&div1

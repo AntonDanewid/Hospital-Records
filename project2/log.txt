@@ -1,0 +1,2 @@
+
+User:[Ljava.lang.String;@5619e944 tried to login. Status: USER NOT FOUND
